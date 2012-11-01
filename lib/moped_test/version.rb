@@ -1,0 +1,3 @@
+module MopedTest
+  VERSION = "0.0.1"
+end
