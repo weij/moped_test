@@ -13,4 +13,5 @@ end
 group :test do
   gem 'rb-fsevent', '0.9.1', :require => false
   gem 'growl', '1.0.3'
+  gem 'simplecov', :require => false
 end
